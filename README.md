@@ -7,3 +7,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%3E%3D5-blue)
 ![pnpm >= 10](https://img.shields.io/badge/pnpm-%3E%3D10-blue)
 </div>
+
+## 🚀 快速开始
+
+### 环境要求
+
+- Node.js ≥ 22
+- pnpm ≥ 10
+- TypeScript ≥ 5
+
+### 安装
+
+```bash
+pnpm install
+```
+```bash
+npm install -D @types/node
+```
